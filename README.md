@@ -1,50 +1,21 @@
 # **Note Taker**
 
-## Description
-
-
 This application lets users like small business owners to be able to write and save notes, so that they can organize their thoughts and keep track of tasks they need to complete.
 
+App deployed url: https://sherrynotetaker.herokuapp.com/
+
+* When you open the Note Taker, you are presented with a landing page with existing notes listed in the left-hand column, you can add your new note by entering the note's title and text in the right-hand column.
+
+* When you enter a new note, you can save this note by clicking the Save icon appears in the navigation at the top of the page.
+
+* When you click the Save icon, the new note you just entered is saved and appears in the left-hand column with other existing notes.
+
+* When you click the existing note in the left column, this note details will be shown in right column.
+
+* When a task is completed, just simply click the trash bin icon so this task will be deleted.
+
+### Screen shot of the Note Taker app:
+![screen shot of the note taker](.\assets\note-taker.png)
 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-### Table of Contents
-
-- **[Installation Instructions](#installation-instructions)**<br>
-- **[Usage Instructions](#usage-instructions)**<br>
-- **[License](#license)**<br>
-- **[Contributing](#contributing)**<br>
-- **[Tests](#tests)**<br>
-- **[Question](#questions)**<br>
-
-## Installation Instructions
-
-Simply open the app link.
-
-## Usage Instructions
-
-Simply open the app link.
-
-## License
-
-[The MIT License](https://opensource.org/licenses/MIT)
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-## Contributing
-
-
-
-## Tests
-
-
-
-## Question
-
-Feel free to contact me at: 
-
-**GitHub**: 
-
-**Email**: 
-
+### Enjoy!
