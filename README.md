@@ -15,7 +15,7 @@ App deployed url: https://sherrynotetaker.herokuapp.com/
 * When a task is completed, just simply click the trash bin icon so this task will be deleted.
 
 ### Screen shot of the Note Taker app:
-![screen shot of the note taker](assets\note-taker.png)
+![screen shot of the note taker](assets/note-taker.png)
 
 
 ### Enjoy!
